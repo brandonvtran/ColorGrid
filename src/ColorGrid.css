@@ -1,0 +1,10 @@
+.color-grid {
+  width: 800px;
+  height: 800px;
+}
+
+.color-grid-cell {
+  width: 100px;
+  height: 100px;
+  display: inline-flex;
+}
