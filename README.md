@@ -12,3 +12,6 @@ or
 
 `npm i && npm run start`
 
+## How to test project
+
+`npm run test`
